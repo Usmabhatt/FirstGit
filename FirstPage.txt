@@ -2,3 +2,7 @@ This is new file
 hello hu
 i found the bug and killed it
 hiddden modifications
+i am done
+
+
+
